@@ -3,7 +3,7 @@
 **Faculté des Sciences de Sfax — Département d'informatique et des Communications**  
 **Auditoire :** LSI 3 — Année Universitaire 2026 – 2027  
 **Matière :** Développement d’applications réparties  
-**Responsables du cours :** Amal ABID & Corinne Amel ZAYANI | **Enseignante des TPs :** Zeineb DAOUD  
+**Responsables du cours :** Amal ABID & Corinne Amel ZAYANI | **Enseignante des TPs :** Amal ABID  
 **Étudiant :** Salmen Zekri  
 
 ---
