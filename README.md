@@ -332,8 +332,6 @@ java -cp src activite2.clientPackage.Client
 ## Livrables & Dépôt GitHub
 
 - **Lien du repository GitHub :**  
-  [https://github.com/zikosalmen/SalmenZekri_LSI3_DevAppReparties.git](https://github.com/zikosalmen/SalmenZekri_LSI3_DevAppReparties.git)
+  [https://github.com/zikosalmen/SalmenZekri_LSI3_DevAppReparties_tp2.git](https://github.com/zikosalmen/SalmenZekri_LSI3_DevAppReparties_tp2.git)
 - **Espace ENT :**  
   Le livrable est conforme aux exigences des deux énoncés (`TP2_Activité2-1` et `TP2_Activité2-2`).
-#   S a l m e n Z e k r i _ L S I 3 _ D e v A p p R e p a r t i e s _ t p 2  
- 
